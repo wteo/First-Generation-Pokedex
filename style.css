@@ -1,0 +1,14 @@
+.pokemon {
+    font-size: 30px;
+    background-color: rgb(230, 225, 225);
+    border: 3px solid black;
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+    text-transform: capitalize;
+}
+
+.pokemon p {
+    font-size: 20px;
+}
