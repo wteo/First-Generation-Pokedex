@@ -7,7 +7,7 @@ Get to know more about the original 151 Pokemon here. A web page that lists all 
 (Preview of the PokeDex)
 
 
-Link: https://wteo.github.io/firstGenPokedex/
+Link: https://wteo.github.io/firstGenPokedexOld/
 
 
 
